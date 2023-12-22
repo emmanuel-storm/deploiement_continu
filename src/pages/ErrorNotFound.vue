@@ -5,7 +5,7 @@
     <div>
       <div style="font-size: 30vh">404</div>
 
-      <div class="text-h2" style="opacity: 0.4">Oops. something went wrong ! Nothing here...</div>
+      <div class="text-h2" style="opacity: 0.4">Oops! It looks like an error occurred, and there's nothing to display here at the moment.</div>
 
       <q-btn
         class="q-mt-xl"
