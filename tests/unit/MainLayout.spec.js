@@ -3,7 +3,7 @@ import MainLayout from "src/layouts/MainLayout.vue";
 import expect from "expect";
 
 describe("MainLayout.vue", () => {
-  it("renders essential links in the sidebar", () => {
+  it("renders essential links in the side bar", () => {
     const wrapper = mount(MainLayout);
 
     const sidebarLinks = wrapper.findAllComponents({ name: "EssentialLink" });
