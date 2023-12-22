@@ -8,7 +8,7 @@ echo "Début du processus de déploiement continu sur la branche principale pour
 npm install
 
 # Construction de l'application Quasar
-quasar build
+quasar build -m spa
 
 # Lancement du serveur local (simulation du déploiement sur un serveur local)
 npm start
